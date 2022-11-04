@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://swapneshcoding.github.io/csb-ur88dy/static/css/main.bb122af5.chunk.css",
+    "main.js": "https://swapneshcoding.github.io/csb-ur88dy/static/js/main.f90edb75.chunk.js",
+    "main.js.map": "https://swapneshcoding.github.io/csb-ur88dy/static/js/main.f90edb75.chunk.js.map",
+    "runtime-main.js": "https://swapneshcoding.github.io/csb-ur88dy/static/js/runtime-main.fb2a93d4.js",
+    "runtime-main.js.map": "https://swapneshcoding.github.io/csb-ur88dy/static/js/runtime-main.fb2a93d4.js.map",
+    "static/js/2.f4e4783c.chunk.js": "https://swapneshcoding.github.io/csb-ur88dy/static/js/2.f4e4783c.chunk.js",
+    "static/js/2.f4e4783c.chunk.js.map": "https://swapneshcoding.github.io/csb-ur88dy/static/js/2.f4e4783c.chunk.js.map",
+    "index.html": "https://swapneshcoding.github.io/csb-ur88dy/index.html",
+    "static/css/main.bb122af5.chunk.css.map": "https://swapneshcoding.github.io/csb-ur88dy/static/css/main.bb122af5.chunk.css.map",
+    "static/js/2.f4e4783c.chunk.js.LICENSE.txt": "https://swapneshcoding.github.io/csb-ur88dy/static/js/2.f4e4783c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb2a93d4.js",
+    "static/js/2.f4e4783c.chunk.js",
+    "static/css/main.bb122af5.chunk.css",
+    "static/js/main.f90edb75.chunk.js"
+  ]
+}
